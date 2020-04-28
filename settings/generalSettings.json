@@ -1,0 +1,7 @@
+{
+  "remoteServiceBaseUrl1": "http://34.71.56.50:86/api",
+  "remoteServiceBaseUrl": "http://34.71.56.50:86/api",
+  "remoteResourceUrl": "http://localhost:54450",
+  "jwtTokenSchema": "Bearer ",
+  "singleImageAPI": "/upload/image/singleimage"
+}

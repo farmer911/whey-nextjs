@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "SF";
+  src: url('/fonts/SF-UI-Display-Regular.otf');
+}
+
+html, body, #vemaybay-app {
+  font-family: "SF" !important;
+}
+
+.spinner-border-sm {
+  width: 1.3rem !important;
+  height: 1.3rem !important;
+  border-width: .14em !important;
+}

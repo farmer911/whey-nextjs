@@ -1,0 +1,77 @@
+.footer {
+   background-image: url('../../public/img/bg_footer.png');
+   font-size: 14px;
+   color: #acacac;
+}
+
+.text-end-footer {
+    text-align: center;
+    font-size: 14px;
+    color: #2f2d2d;
+}
+
+.topic {
+    font-size:15px;
+    text-transform: uppercase;
+    color: #fdbb0a;
+    font-weight: 400;
+    padding-left: 30px;
+    background: url('../../public/img/icon_add_footer.png') no-repeat;
+}
+
+.label {
+    display: block;
+    padding: 3px 0;
+    color: #aba6a6;
+    padding-left: 30px;
+}
+
+.title-footer-store {
+    margin: auto;
+    color: #aba6a6;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 30px 6px 10px 6px;
+    text-transform: uppercase;
+}
+
+.border-footer {
+    border-bottom: 1px solid #4e4b4b;
+    padding-bottom: 30px;
+}
+
+.link {
+    color: #acacac;
+    display: block;
+    padding: 8px 0;
+}
+
+.link-title {
+    font-weight: 400;
+    font-size: 13px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.image {
+    min-width: 48px;
+    height: 48px;
+    background: url('../../public/img/phone_footer.png') no-repeat center;
+    background-size: cover;
+}
+
+.phone-footer {
+    font-weight: 700;
+    font-size: 25px;
+    color: #fdbb0a;
+}
+
+.bank {
+    font-weight: 550;
+    background: #dd9e44;
+    color: #FFF;
+    padding: 5px;
+    margin-top: 8px;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
